@@ -1,2 +1,12 @@
-<h1 style="color:blue;">percubaan ke 2 🗿</h1>
-<a href="https://ibb.co/s9dBSY3k">untuk kamu</a>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Laman Utama</title>
+</head>
+<body>
+    <h1>Selamat datang!</h1>
+    <p>percubaan ke 2</p>
+    <a href="~1955">UNTUK KAMU</a>
+</body>
+</html>
+
