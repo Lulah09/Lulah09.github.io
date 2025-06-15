@@ -4,8 +4,8 @@
 </head>
 <body>
     <h1>Selamat datang!</h1>
-    <p>percubaan ke 2🗿</p>
-    <a href="TES.html">UNTUK KAMU</a>
+    <p>percubaan ke 3🗿</p>
+    <a href="cute.jpg">UNTUK KAMU</a>
 </body>
 </html>
 
