@@ -1,11 +1,9 @@
+
 <html>
 <head>
-    <title>Laman Utama</title>
+  <title>Gambar Saya</title>
 </head>
-<body>
-    <h1>Selamat datang!</h1>
-    <p>percubaan ke 3🗿</p>
-    <a href="cute.jpg">UNTUK KAMU</a>
+<body style="text-align: center; margin-top: 50px;">
+  <img src="cute.jpg" alt="Gambar Saya" style="max-width: 100%; height: auto;">
 </body>
 </html>
-
